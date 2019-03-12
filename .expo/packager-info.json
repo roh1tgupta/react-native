@@ -1,10 +1,10 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 13516,
-  "expoServerNgrokUrl": "https://9q-mvx.anonymous.firstproject.exp.direct",
-  "packagerNgrokUrl": "https://packager.9q-mvx.anonymous.firstproject.exp.direct",
-  "ngrokPid": 10584,
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null,
   "webpackServerPort": null
 }
